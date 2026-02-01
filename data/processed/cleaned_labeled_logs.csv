@@ -1,0 +1,446 @@
+block_id,clean_log,label
+blk_-1055254430948037872,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-1094025072435547068,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-1110880362999960078,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-1111344660779690782,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1148756466197125339,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-1233005817943453613,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-1259190292740306590,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-1282453782148343691,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task___m__/part-. blk_-,Normal
+blk_-1331750856499198500,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-133919539232421451,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-1347057913082589493,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1367876730256254709,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-1383276859207001328,   info dfs.datablockscanner: verification succeeded for blk_-,Normal
+blk_-1492402439215451727,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1527267659500322006,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-1547954353065580372,   info dfs.datablockscanner: verification succeeded for blk_-,Anomaly
+blk_-1581605246928123722,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1599621098605751235,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1614641487214609125,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-1635752698830216319,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-165500353496111884,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-1661553043410372067,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-1727475099218615100,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task___m__/part-. blk_-,Normal
+blk_-1775264355226395799,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1798958443298220150,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-1851265222873801714,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-1897524391075610396,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-1939956833921604216,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-2012430628930443984,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-2013946318750925538,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-2015110815660478655,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-20269367189114433,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-2032740670708110312,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-207775976836691685,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_-,Normal
+blk_-2094397855762091248,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-210021574616486609,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_-,Normal
+blk_-2129171714384027465,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-2285729896739318683,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-2425070029518924403,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-2445347158368483245,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-2452477352812192142,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-2480595760294717232,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-2530087534157630851,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-2589662411410634043,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-26568864070436835,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-272707591443354058,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-2794533871450434534,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-2826763604408365998,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-2827716238972737794,   info dfs.datablockscanner: verification succeeded for blk_-,Normal
+blk_-2834195813213005328,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-28342503914935090,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-2896670847306153652,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-2901225370888235702,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-2918118818249673980,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-29548654251973735,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-2975629975082443857,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3010126661650043258,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-305633040016166849,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-3140754468249228022,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-3249711809227781266,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-3275788837420923000,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-3358448553918665902,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3362838757940877177,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-3384560576963801177,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3437475890798229344,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-3455521536483250153,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-3457731723401426942,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3509323198988774369,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-3582070652284403613,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-3636681193077858741,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-3657665801189425193,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3677956642639780952,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-3787594914477940893,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-3792836284792472725,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-3802183646922512795,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-3805070405372551730,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-3860035787700398391,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-3860894070657427592,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-3909548841543565741,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-4067446915270471579,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-4110733372292809607,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-4117999745005013424,   info dfs.datablockscanner: verification succeeded for blk_-,Normal
+blk_-4196449318426994195,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-4223625526513535681,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-4229375751333894621,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-4295805058711840933,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-4298255715894292387,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-4304240611296196935,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-4330512786228504138,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-4368236874477798428,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-4566099704755845087,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-4702684774678057084,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-4741127506068309449,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-476906696485288376,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-4794867979917102672,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-4799092443170733505,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-4841792440390267307,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-4853183643928986291,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-488298625688742454,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-4937215748597091532,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-4980916519894289629,   info dfs.datablockscanner: verification succeeded for blk_-,Normal
+blk_-5005618994659797504,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-5009020203888190378,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-5073870177832699716,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5124326558394984439,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5135777574223073423,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-5145886774827574591,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-518701095493827363,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5195432543794777448,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5215520749152394224,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5217146995455608468,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-522892190802801712,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-5309211894896608429,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5319073033164653435,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task___m__/part-. blk_-,Normal
+blk_-5341992729755584578,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-5368528328022648701,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-5404881839098659470,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-54240672253074715,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5442040196315589272,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5511630179413516751,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-5569558931000121451,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5623176793330377570,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-562725280853087685,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5704899712662113150,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-5719934513583495857,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-5852844080027817147,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-5861636720645142679,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-591552904934794824,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-5919767990596301121,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-5935642747315643391,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-5949883083428548093,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-5972745462629982078,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-5974833545991408899,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-6008397446568765070,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/blk_-,Normal
+blk_-6050976999174805557,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-6056336045486998577,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-6114220623980201749,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-6127741703501838658,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-6136511938931864993,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-6255015379143356507,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-6276023454199613372,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-62891505109755100,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Anomaly
+blk_-6290631608800952376,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-6329494504520216748,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-6400421658804613208,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-6412155847905320411,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-643763844763678010,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-6486714614940767660,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Anomaly
+blk_-6500549130351529113,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-6520030462660619051,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-653434419514937486,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-6543889749770222531,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-6620182933895093708,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_-,Normal
+blk_-6640779266188771131,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-6670958622368987959,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-667933171485085225,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-6766351519628312408,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-6809181994368905854,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-6836642008179678048,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-6837050820114491742,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-684595390732854503,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-6867873931012347356,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-6900989714336081087,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-6952295868487656571,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-6956067134432991406,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-6979800421545566530,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7007208336332784130,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7017553867379051457,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-7096508472270520039,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-7105305952901940477,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_-,Anomaly
+blk_-7111788899695387329,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-71429470616906355,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7152190882826520998,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7172347691639518373,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-730776401372551814,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-7364557883931785608,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-7413910507260978729,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-7418499425236853516,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-7436749154361133879,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-7514806214244798312,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7515058933811567980,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-7526945448667194862,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-7553009628768897700,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-7555801584297376435,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-7640601843607665080,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-7656610147924319419,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-7680599654910200999,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-7724713468912166542,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-774267833966018354,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-7837339190764609698,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-7866582011201618766,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-7878121102358435702,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task___m__/part-. blk_-,Normal
+blk_-7894824934989391122,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-7928230000822317050,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-7983508786213002472,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-8014701913801168461,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8023826090828946372,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-8026264173633579073,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-8093500164295459838,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-8108913101671416218,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-8144387882075572886,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8187008844253719581,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-8227485321105019293,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8241093737585222406,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-8255732027871411321,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8306714721294235181,   info dfs.datanode$dataxceiver: ...: served block blk_- to /...,Normal
+blk_-8383503596684323017,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8403618945096094999,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-8408087700903896282,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-8484827087450439270,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8495670552887053546,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-8522942048313632858,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-8523968015014407246,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-8524274644018377752,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8558845834445970595,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-8562334328670278932,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8588908000680498,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8679916835272129336,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_- to /...:,Normal
+blk_-8736461628840265232,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-8788032532930439012,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8796256534683400159,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8847552694913526632,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_-8848810702648406400,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8856628810470361280,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Normal
+blk_-8898274302731129139,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-8924134715029713489,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-9038475355621289969,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-9056276727170871967,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-9069971851590882719,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-9103764593642564543,   info dfs.datanode$dataxceiver: receiving block blk_- src: /...: dest: /...:,Anomaly
+blk_-9110604833387121363,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-9161369067334198861,   info dfs.datanode$packetresponder: packetresponder  for block blk_- terminating,Normal
+blk_-9162090767925303921,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_-,Normal
+blk_-9181958042427679309,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_- size ,Normal
+blk_-921231092429668424,   info dfs.fsdataset: deleting block blk_- file /mnt/hadoop/dfs/data/current/subdir/blk_-,Normal
+blk_-945770324989341170,   info dfs.fsnamesystem: block* namesystem.delete: blk_- is added to invalidset of ...:,Normal
+blk_-967145856473901804,   info dfs.datanode$packetresponder: received block blk_- of size  from /...,Normal
+blk_1064470652608359218,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_1078000656626961731,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_1104376461837247304,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_,Normal
+blk_148513789886825227,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_1498192967843651378,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_153508158653341141,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_1543605971733759530,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Anomaly
+blk_1598414622053793245,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_1636660629634995787,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_166171721314010075,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_1686195200514944346,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_1724757848743533110,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_1777689952069868672,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_1781953582842324563,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_1997668456720275587,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_2028803850179311599,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_2039230511363331616,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_2096692261399680562,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_,Anomaly
+blk_2113880130496815041,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_2149728827322918746,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_2244903517044280975,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_2273334621242106674,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Anomaly
+blk_2278708746675870163,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_2304296078821316612,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_2322432806134104317,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_2377150260128098806,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_2513940824125131775,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task___m__/part-. blk_,Normal
+blk_2576408434603492552,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_2731617036199392057,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_2756799797410851893,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_278357163850888,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Anomaly
+blk_2879780987351022871,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_2917692073041583988,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_2937758977269298350,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_2969087638814291714,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_3050920587428079149,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_3068335169639013019,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3073404534069578592,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_3084588477220583373,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3087787567144441647,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_3141363517520802396,   info dfs.datablockscanner: verification succeeded for blk_,Normal
+blk_3160319368100972992,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3166960787499091856,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_3169060243663461885,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_3259872359515191972,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3278280638950561822,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3304535870056962597,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3441699978641526775,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_3463540868626173125,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3515154079719300106,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_356592557993755459,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_358331073189608564,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_3585588704565901062,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_3587508140051953248,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3598904881888399067,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_365496398062338141,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_3763728533434719668,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_3777400576053320362,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3781645897486585075,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3790492230047189408,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_3852281952649038166,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_3858015337960682724,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_38865049064139660,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3962600675982666210,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_3963698556744744747,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_397848436489409658,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_3979872751691718643,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_4081177399275502985,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_413552235254424009,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_4238127626194855481,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_424255210146453297,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_426381928692704514,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_427714267500527780,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_434034567989619521,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_4355450627202483068,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_4404895858852856851,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_4438674026376140804,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_4499140370762613763,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_4524198807982839635,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_4568377692254637284,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_4568434182693165548,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_4585055992495043771,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_4628142183191390143,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_467589865104023338,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_4741107979793372752,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_4755566011267050000,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_4774656339381154282,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_4841101867353115844,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_,Normal
+blk_4848669047361069041,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_4886940526690879848,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_4934527196392001803,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_5017373558217225674,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_5075966182561035053,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_5095897972833086609,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_5114010683183383297,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_5126469776250053435,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_5165786360127153975,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_5178539130945718870,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_5210211633167259832,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_5272005015837990021,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_5402003568334525940,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_541463031152673662,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_5454332143498402824,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_549647953114643908,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_5547569777499890340,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_559204981722276126,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task___r__/part-. blk_,Normal
+blk_561417755647618727,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_570916157110129687,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_572492839287299681,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_5739119717322549945,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_5760391051658436046,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Anomaly
+blk_5792489080791696128,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_5905933788014151041,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_5948455948626091880,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_5952254363678329024,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_5963816136267066159,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_5977008528949258706,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_6002109944224710483,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_6031076349976322578,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_6093743385844975689,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_6105506155797750768,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_6106884317961925960,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_6223504502438507199,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_6241141267506413726,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_6296828743242110158,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_6324712740029479576,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_6332892729727950039,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_6465095458973828118,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_6489659315944341351,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_6497260538939100482,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_6534693994677948144,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_6655622109568310643,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_666713934549639791,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_673825774073966710,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_6763863888784019261,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_6828121630547887549,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_6828263829429857572,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_691517018986659607,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_6921674711959888070,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_6973321719929905054,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_6996194389878584395,   info dfs.datablockscanner: verification succeeded for blk_,Anomaly
+blk_699651392443620263,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_703046261120042821,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_7061131805920430446,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_7090935285617451450,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_7128370237687728475,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_7154985168984871115,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_7177118590277025973,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_7190156588310412626,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_7229716389774599497,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_7323287581932922676,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_7324196727355442810,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_7453815855294711849,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_7481361125021302112,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_7484759945731484842,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_7505828172725463922,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_7517964792804498202,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_7519257846502835091,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_755689327380778318,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_7577595658377008671,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_7603278760520020831,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_7654726977769174867,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_7672124247291403094,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_7736147489540456118,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_7754477838724397551,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_7791237942696729620,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_7819984111120374407,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_7888946331804732825,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_7929144620252342335,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_7932704730736035192,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_7940316270494947483,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_8015913224713045110,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_805587860540600864,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_8060713381303305129,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_8145984793403459836,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/blk_,Normal
+blk_8181993091797661153,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Anomaly
+blk_8189008752707332487,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_8229193803249955061,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_8247499802516177421,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_826351419727053015,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_8291449241650212794,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_8291708741145026623,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_8303413189200230139,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Anomaly
+blk_830855781964014378,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_8320088109701056055,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_8350646254685996250,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_8376667364205250596,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_8404604116961181201,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_8408125361497769001,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Anomaly
+blk_8466246428293623262,   warn dfs.datanode$dataxceiver: ...::got exception while serving blk_ to /...:,Normal
+blk_8482111101480751895,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Normal
+blk_8483848473254499625,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Anomaly
+blk_8492196963764530259,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_8602496359012842630,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Anomaly
+blk_8692428775973608797,   info dfs.datanode$dataxceiver: receiving block blk_ src: /...: dest: /...:,Normal
+blk_8763662564934652249,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_8772892713521115147,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_8787656642683881295,   info dfs.datanode$dataxceiver: ...: served block blk_ to /...,Anomaly
+blk_8829027411458566099,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
+blk_8871064397020855320,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_8935202950442998446,   info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task___m__/part-. blk_,Normal
+blk_9072829105973334075,   info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: ...: is added to blk_ size ,Normal
+blk_9074030793567748915,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_9093049293972551787,   info dfs.datanode$packetresponder: packetresponder  for block blk_ terminating,Normal
+blk_9111860234027679206,   info dfs.fsnamesystem: block* namesystem.delete: blk_ is added to invalidset of ...:,Normal
+blk_9169945668827621796,   info dfs.fsdataset: deleting block blk_ file /mnt/hadoop/dfs/data/current/subdir/blk_,Normal
+blk_9188832735514090334,   info dfs.datablockscanner: verification succeeded for blk_,Normal
+blk_9212264480425680329,   info dfs.datanode$packetresponder: received block blk_ of size  from /...,Normal
