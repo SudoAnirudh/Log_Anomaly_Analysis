@@ -44,7 +44,7 @@ This project offers both a **Command Line Interface (CLI)** for automated pipeli
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YourUsername/Log_Anomaly_Analysis.git
+    git clone https://github.com/SudoAnirudh/Log_Anomaly_Analysis.git
     cd Log_Anomaly_Analysis
     ```
 
